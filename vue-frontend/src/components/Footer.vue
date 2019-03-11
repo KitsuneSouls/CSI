@@ -37,7 +37,7 @@ export default {
   // line that goes through the center
   &::before {
     background: color(tColor);
-    content: '';
+    content: "";
     height: 100%;
     left: 50%;
     position: fixed;
@@ -59,7 +59,7 @@ export default {
     flex-flow: column;
     justify-content: center;
     align-content: center;
-  
+
     // double border effect
     &::before {
       background: none;
@@ -67,10 +67,10 @@ export default {
       content: "";
       display: block;
       position: absolute;
-      top: .5rem;
+      top: 0.5rem;
       left: 0;
       right: 0;
-      bottom: .5rem;
+      bottom: 0.5rem;
       pointer-events: none;
     }
 

@@ -1,9 +1,17 @@
 <template>
   <ul class="social-media-links">
-    <li><a href=""><i class="fab fa-facebook"></i></a></li>
-    <li><a href=""><i class="fab fa-twitter"></i></a></li>
-    <li><a href=""><i class="fab fa-instagram"></i></a></li>
-    <li><a href=""><i class="fab fa-github"></i></a></li>
+    <li>
+      <a href=""><i class="fab fa-facebook"></i></a>
+    </li>
+    <li>
+      <a href=""><i class="fab fa-twitter"></i></a>
+    </li>
+    <li>
+      <a href=""><i class="fab fa-instagram"></i></a>
+    </li>
+    <li>
+      <a href=""><i class="fab fa-github"></i></a>
+    </li>
   </ul>
 </template>
 
@@ -21,19 +29,19 @@ export default {
   align-self: center;
   margin: 10px;
 
-  li {       
-    margin: .5rem;
-      
+  li {
+    margin: 0.5rem;
+
     a {
-      padding: .5rem .65rem;
-      border: 1px solid #FFF;
+      padding: 0.5rem 0.65rem;
+      border: 1px solid #fff;
       border-radius: 100px;
 
       i {
-        color: #FFF;
+        color: #fff;
       }
 
-      &:hover{
+      &:hover {
         color: color(yellow);
         border: 1px solid color(yellow);
 
@@ -42,7 +50,6 @@ export default {
         }
       }
     }
-  }    
+  }
 }
 </style>
-

@@ -25,32 +25,27 @@ export default new Router({
     {
       path: "/activities",
       name: "activities",
-      component: () =>
-        import("./views/Activities.vue")
+      component: () => import("./views/Activities.vue")
     },
     {
       path: "/faculty",
       name: "faculty",
-      component: () =>
-        import("./views/Faculty.vue")
+      component: () => import("./views/Faculty.vue")
     },
     {
       path: "/education",
       name: "education",
-      component: () =>
-        import("./views/Education.vue")
+      component: () => import("./views/Education.vue")
     },
     {
       path: "/resources",
       name: "resources",
-      component: () =>
-        import("./views/Resources.vue")
+      component: () => import("./views/Resources.vue")
     },
     {
       path: "/contact",
       name: "contact",
-      component: () =>
-        import("./views/Contact.vue")
-    },
+      component: () => import("./views/Contact.vue")
+    }
   ]
 });
