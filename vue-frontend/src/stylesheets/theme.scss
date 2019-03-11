@@ -1,0 +1,56 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Roboto");
+
+$fonts: (
+  pFont: "Roboto",
+  sFont: "Lato",
+  tFont: "Raleway"
+);
+
+@function font($font-name) {
+  @return map-get($fonts, $font-name);
+}
+
+// Colors
+$colors: (
+  pColor: #AD0000,
+  sColor: #000,
+  tColor: #CCC,
+  yellow: #FDB913,
+  white: #FFF
+);
+
+@function color($color-name) {
+  @return map-get($colors, $color-name);
+}
+
+// Breakpoints
+$small: 576px;
+$medium: 768px;
+$large: 992px;
+$extralarge: 1200px;
+
+// Small devices (landscape phones, 576px and up)
+@mixin small {
+  @media (min-width: #{$small}) {
+    @content;
+  }
+}
+// Medium devices (tablets, 768px and up)
+@mixin medium {
+  @media (min-width: #{$medium}) {
+    @content;
+  }
+}
+// Large devices (desktops, 992px and up)
+@mixin large {
+  @media (min-width: #{$large}) {
+    @content;
+  }
+}
+// Extra large devices (large desktops, 1200px and up)
+@mixin extralarge {
+  @media (min-width: #{$extralarge}) {
+    @content;
+  }
+}
