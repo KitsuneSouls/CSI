@@ -43,7 +43,6 @@ export default {
 
 #app {
   font-family: font(sFont);
-  overflow: hidden;
 }
 
 #navbar {
