@@ -55,6 +55,16 @@
         <li><strong>CIS 484</strong> - Computer Forensics</li>
       </ul>
     </section>
+    <section class="info">
+      <p>
+        Specific class information is available
+        <a
+          target="_blank"
+          href="http://htmlaccess.louisville.edu/classSchedule/setupSearchClassSchedule.cfm"
+          >HERE</a
+        >
+      </p>
+    </section>
     <!-- Footer -->
     <Footer msg="University of Louisville" />
   </div>
@@ -175,6 +185,10 @@ section {
     li {
       padding: 3%;
     }
+  }
+
+  a {
+    color: color(pColor);
   }
 }
 </style>

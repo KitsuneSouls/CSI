@@ -14,41 +14,35 @@
       <h2>Government</h2>
       <ul>
         <li>
-          <a
-            href="/go.php?u=KkYQT8mg%2BcV%2BQdW0M5VIYIbksDgr1QGO4A%3D%3D&amp;b=5"
+          <a href="http://http://www.cisse.info/"
             >Colloquium for Information Systems Security Education (CISSE)</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5E4HdbtI9RdJpz5sXM6lQ%2BVouo%3D&amp;b=5"
+          <a href="http://www.nist.gov/index.html"
             >NIST (National Institute of Standards and Technology</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQRM6m6tE%2FB9G3atxEf9rwp3k3yxTOnMt4FPgl5Gi%2B&amp;b=5"
+          <a href="http://csrc.nist.gov/groups/SMA/fasp/"
             >NIST - Computer Security Resource Center</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5EiD4ykK80E&amp;b=5"
+          <a href="http://www.nsa.gov/"
             >NSA (National Security Agency) Central Security Service</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5A1AMvtI9RdJg%3D%3D&amp;b=5"
+          <a href="http://www.odni.gov/"
             >Office of the Director of National Intelligence</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5A%2FCdeiNt9EZ5n%2Bu3Ns3AiX4A%3D%3D&amp;b=5"
-            >Federal Trade Commission</a
-          >
+          <a href="http://www.onguardonline.gov/">Federal Trade Commission</a>
         </li>
         <li>
-          <a
-            href="/go.php?u=Y1MQCMqj%2FtE8B5ftI9RdJ4D8%2Bn4t1gLPp%2FJUVw%3D%3D&amp;b=5"
+          <a href="https://www.mi5.gov.uk/home.html"
             >UK's MI5 Security Service</a
           >
         </li>
@@ -59,7 +53,7 @@
       <ul>
         <li>
           <a
-            href="/go.php?u=Y1MQCMim5Zs0CMetN94FeYf4unAy1A6Pu6haVPNr4Sq%2BDndqSgVgi2GsKi%2B4F8yeyykQl6OpDl9dnmJVxOmkj%2Ff%2BjA627StYPQVX5VvRCGAokJFFgBqlTTyZoG3wlYdMzDHgzL8pqTIYFn4jANcy2viW4tmoIrttl9boV4geB%2Bk37b%2FxSTpgtdAUPY%2BleNCmWj81wxndeDS0NqW7%2F3sMjyW9ILd1Ul%2FbHn1%2FdzOe2n1eduBNxyhz5JRtEo%2FYNdCS0xll37F2N2tJuEqRIkzR0leccQDFvJbK1r60p5SwNQiIQfT692cho1d8mHMQr0UZb20KAYa0yO%2FXOi1ohKPh86oz6oPGfv1O4gwyUBCNZIRdhKJvQUJAdr3fnnYbHifqwjRV9geLPNSaJHDF9SDDQ5BMvS5SEJXOAyMKqyrTB8JIM7IvooIjwiVZYn0CYb1SYAJBMlCfGWoCjCkrDC7EIsE8CVFgP7YA&amp;b=5"
+            href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.affordablecollegesonline.org_college-2Dresource-2Dcenter_vocational-2Dcollege-2Dfinancial-2Daid-2Dscholarships_&d=DwMF-g&c=OAG1LQNACBDguGvBeNj18Swhr9TMTjS-x4O_KuapPgY&r=aHFUAZMujhFfYp5zzmJbEbucLzMeYp9pACZSSyNEWyQ&m=aF5OkUjNrMXbXS5o2cvQ8bXfnXMVpqmdErdfkU7YkyI&s=n3oIxEm0lYKRSGdsXeCl3ZT-5K9iJAhgfUNXhrBbMrw&e="
             >Center for School, College, and Career Resources</a
           >
         </li>
@@ -69,79 +63,76 @@
       <h2>Education</h2>
       <ul>
         <li>
-          <a href="/go.php?u=Y1MQCN6t65ojCsekNt5OYYD1%2B3Ut1kg%3D&amp;b=5"
+          <a href="https://cyberdegreehub.com/"
             >Advocacy Director - Cyber Degree Hub</a
           >
         </li>
         <li>
           <a
-            href="/go.php?u=KkYQRdy34pgjAdetINhDbJb8pjgtyQDOu%2B5cFv0r%2BXv0CWtjEV0tgme9NCjmCfmu%2BzIFj%2FXlWQsCwXJbyemywfn8hEal%2BjFUOBoT%2F1HSF2Agu5dJmFu5RSzGv0LrlIcN0TfuxQ%3D%3D&amp;b=5"
+            href="http://backgroundchecks.org/the-concerned-parents-toolbox-120-tools-and-tricks-to-protect-your-kids.html"
             >Tools and Tricks to Protect Your Kids
           </a>
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5AhC8ygK9dHbJLypjgn3xLPrvMWUvAi%2BGr8HmEpFgk%2Fhmf1KT3zQfm4uw%3D%3D&amp;b=5"
+          <a href="http://www.opencolleges.edu.au/informed/cyber-safety/"
             >Cyber Safety Education</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5woDMexN95IfIf%2BoW8n3xKCrvJQVPBq%2BGr2VHdjBh8okXa9KXM%3D&amp;b=5"
+          <a href="http://www.cybersecurityeducation.org/resources/"
             >CybersecurityEducation.Org</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQRM69%2BtE2A9ftId9eJg%3D%3D&amp;b=5"
+          <a href="http://csis.gmu.edu/"
             >Center for Secure Information Systems at GMU</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQRM69%2BtE2A9ftId9eJg%3D%3D&amp;b=5"
+          <a href="http://csis.gmu.edu/"
             >Center for Secure Information Systems at GMU</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5w0HMuiN5VbfIfzoHNs3gOU4A%3D%3D&amp;b=5"
+          <a href="http://www.cerias.purdue.edu/"
             >CERIAS at Purdue University</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5glB9GgatxKfZD0vTgn3xLO&amp;b=5"
+          <a href="http://www.gtisc.gatech.edu/"
             >Georgia Tech Information Security Center</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5YiHc7tLdpYfZTjsDgn3xLO&amp;b=5"
+          <a href="http://www.issl.iastate.edu/"
             >Information Assurance Center at Iowa State University</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQSdS1%2FZoyQMutItQEX5zyokYj3ALPrvVJQ6Et8yWiPzU%3D&amp;b=5"
+          <a href="http://niatec.info/ViewPage.aspx?id=3D0"
             >National Information Assurance Training and Education Center</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5wiB4y2J9RFZ9vysWNt&amp;b=5"
+          <a href="http://www.csi.uconn.edu/"
             >University of Connecticut Comcast Center of Excellence for Security
             Innovation</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQTs6x6tEkGtevN9oFbJHi%2Bg%3D%3D&amp;b=5"
+          <a href="http://isec.utulsa.edu/"
             >University of Tulsa Institute for Information Security</a
           >
         </li>
         <li>
           <a
-            href="/go.php?u=KkYQSNO44JE0QM6mM9JYfNvysWNt1hSIvKlUWu0w8mriVmxoWBkzhXqqNz3hTeKvuS0Cg%2Fi6AU1Lw3RR1eq0nvv3kw%3D%3D&amp;b=5"
+            href="http://online.lewisu.edu/msis/masters-in-information-security/resources"
             >Lewis University Masters in Information Security</a
           >
         </li>
         <li>
           <a
-            href="/go.php?u=Y1MQCMqj%2FtE6D9KvJdVeZ5zhsGQx0hOY4eNdTrEq8m%2FiVndjBh8okXa9KXPwUOWo9z8LzeWpC1JXnik%3D&amp;b=5"
+            href="https://www.kaplanuniversity.edu/news-resources/ethical-hacker/"
             >Kaplan University "Ethical Hacker: Fighting a Cybersecurity War"
           </a>
         </li>
@@ -151,23 +142,20 @@
       <h2>Research</h2>
       <ul>
         <li>
-          <a href="/go.php?u=KkYQU9Sn%2BpoyQMOgKZVEe5K4&amp;b=5"
+          <a href="http://tissec.acm.org/"
             >ACM Transactions on Information and System Security (TISSEC)</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp54yA4ysNtwE&amp;b=5"
-            >Association for Computer Machinery</a
-          >
+          <a href="http://www.acm.org/">Association for Computer Machinery</a>
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5w%2BA9K2MN5ZJ5rlsjky1BWVruoWTPsmuH%2FkHnZyWhgyjnA%3D&amp;b=5"
+          <a href="http://www.computer.org/portal/web/guest/home"
             >IEEE Computer Society</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5Y0C8fuN95IfIf%2BoW9s1BWG4A%3D%3D&amp;b=5"
+          <a href="http://www.ieee-security.org/"
             >IEEE Computer Society's Technical Committee on Security and
             Privacy</a
           >
@@ -178,78 +166,62 @@
       <h2>Security Organizations</h2>
       <ul>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5w0HNbtK8lMJg%3D%3D&amp;b=5"
-            >CERT at Carnegie Mellon University</a
-          >
+          <a href="http://www.cert.org/">CERT at Carnegie Mellon University</a>
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5o3CIysNtwE&amp;b=5"
-            >Electronic Frontier Foundation</a
-          >
+          <a href="http://www.eff.org/">Electronic Frontier Foundation</a>
         </li>
         <li>
-          <a href="/go.php?u=KkYQQs296tE%2BHMXs&amp;b=5"
+          <a href="http://epic.org/"
             >Electronic Privacy Information Center (EPIC)</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5YiHcPtK8lMJg%3D%3D&amp;b=5"
+          <a href="http://www.issa.org/"
             >Information Systems Security Association (ISSA)</a
           >
         </li>
+        <li><a href="http://www.isacaky.org/">ISACA Kentuckiana Chapter</a></li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5YiD8GiL8IFZofw%2Bg%3D%3D&amp;b=5"
-            >ISACA Kentuckiana Chapter</a
-          >
-        </li>
-        <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5YiHcPuL95FfYD0vn8j1QbPoPReFA%3D%3D&amp;b=5"
+          <a href="http://www.issa-kentuckiana.org/"
             >ISSA Kentuckiana Chapter</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=Y1MQCMqj%2FtE%2BGcOwNJVEe5K4vHgm3h%2FPv%2B5JFNMl%2FnbOK2RhEA%3D%3D&amp;b=5"
+          <a href="https://www.owasp.org/index.php/Main_Page"
             >Open Web Application Security Project (OWASP)</a
           >
         </li>
-        <li>
-          <a href="/go.php?u=KkYQUMqjp4wwANHtK8lMJg%3D%3D&amp;b=5">SANS</a>
-        </li>
-        <li>
-          <a href="/go.php?u=KkYQVNKh%2B5w0CM2xI94FZ5Dj%2Bg%3D%3D&amp;b=5"
-            >SourceForge</a
-          >
-        </li>
+        <li><a href="http://www.sans.org/">SANS</a></li>
+        <li><a href="http://sourceforge.net/">SourceForge</a></li>
       </ul>
     </section>
     <section class="info">
       <h2>Policies</h2>
       <ul>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5sjBIygK9YEe5DkumMw2AKS4PJWVPI3uH%2F9FHZ1FAIkzif2Mij4SA%3D%3D&amp;b=5"
+          <a href="http://www.drj.com/resources/tools/glossary-2.html"
             >Business Continuity Glossary by DRJ</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5sjB8ftK8lMJg%3D%3D&amp;b=5"
+          <a href="http://www.drie.org/"
             >Disaster Recovery Information Exchange</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5sjB4ygJZQ%3D&amp;b=5">DRI CANADA</a>
+          <a href="http://www.dri.ca/">DRI CANADA</a> (Business Continuity
+          Planning/Disaster Recovery)
         </li>
         <li>
           <a
-            href="/go.php?u=KkYQUMqjp5R8HdaiMN4FbJHi%2BnUt1gqIu%2FJcXu1r9HHlGmYpER8%2Blni9NCjmC%2BSv8jEVjey8AVZcwXRR1eq0nvv3zQaw5jlQNgRb5UrRD2Yiow%3D%3D&amp;b=5"
+            href="http://www.k-state.edu/committees/citac/documents/information-resource-management.html"
             >Kansas State Univ. Information Resource Management Policy</a
           >
         </li>
         <li>
           <a
-            href="/go.php?u=KkYQUMqjp5w%2BAs2xJd9EJ5DzoDkq2h2AveJKFO4x9XT4GGRyHB8zkDqxNDr6VuCk5nEOjuunGlRXnihc0uit&amp;b=5"
+            href="http://www.colorado.edu/hazards/publications/informer/informer.html"
             >Natural Hazards Informer</a
           >
         </li>
@@ -260,31 +232,26 @@
       <ul>
         <li>
           <a
-            href="/go.php?u=KkYQUMqjp5YiD8GiatRZbtrcu3k11wKFqOMUePsq433jVEZJNzkJzEW5PTnmC8K38SwRiei%2FRlhBnH4%3D&amp;b=5"
+            href="http://www.isaca.org/Knowledge-Center/COBIT/Pages/Overview.aspx"
             >COBIT (Control Objectives for Information and Related
             Technology)</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5gwHNatIckFapr6%2Bn82lBeAqOMXUe00qHH1RjZCQkhv1STq&amp;b=5"
+          <a href="http://www.gartner.com/it/page.jsp?id=3D782612"
             >Gartner Risk Assessment Method</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp81mXpLzatRZbtr%2BpnlviVDR%2F7QXU%2Bop&amp;b=5"
-            >ISO 27000 Series</a
-          >
+          <a href="http://www.27000.org/iso-27002.htm">ISO 27000 Series</a>
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQRM6m6tE%2FB9G3atxEf9rwp3k3yxTOnMt4FPgt5HXwVGN0FB04lHqqMXL9UOCt&amp;b=5"
+          <a href="http://csrc.nist.gov/groups/SMA/fisma/framework.html"
             >NIST Risk Management Framework</a
           >
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5gwAYykK80E&amp;b=5"
+          <a href="http://www.gao.gov/"
             >U.S. Government Accountability Office</a
           >
         </li>
@@ -294,24 +261,18 @@
       <h2>Certification</h2>
       <ul>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5oyDc22KthCZdv4p3Ft&amp;b=5"
-            >Certified Ethical Hacker</a
-          >
+          <a href="http://www.eccouncil.org/">Certified Ethical Hacker</a>
         </li>
         <li>
-          <a
-            href="/go.php?u=Y1MQCMqj%2FtE4HcHxatRZbtr0vGUxy0ilquBYTvIwuXniC30%3D&amp;b=5"
+          <a href="https://www.isc2.org/cissp/Default.aspx"
             >CISSP - Certified Information Systems Security Professional</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5w%2BA9K3LdoFZofw%2Bn4t1gLPrvVJQw%3D%3D&amp;b=5"
-            >CompTIA Security+</a
-          >
+          <a href="http://www.comptia.org/home.aspx">CompTIA Security+</a>
         </li>
         <li>
-          <a href="/go.php?u=KkYQUMqjp5g4D8HtK8lMJg%3D%3D&amp;b=5"
+          <a href="http://www.giac.org/"
             >GIAC (Global Information Assurance Certification)</a
           >
         </li>
@@ -321,39 +282,30 @@
       <h2>Miscellaneous</h2>
       <ul>
         <li>
-          <a href="/go.php?u=KkYQRsmg%2B5YlB82tatRZbto%3D&amp;b=5">Attrition</a>
+          <a href="http://attrition.org/">Attrition</a> (This site has archives
+          of web defacements)
         </li>
-        <li>
-          <a href="/go.php?u=KkYQUMqjp5o8DYygK9YEYJvzsG5s0xOM&amp;b=5">EMC</a>
-        </li>
+        <li><a href="http://www.emc.com/index.htm">EMC</a></li>
         <li>
           <a
-            href="/go.php?u=KkYQUMqjpM5lXIyqJtYFapr6%2BmUt3ROWrvRcFO42%2BHzkGHF1WgUuzHC2dT%2F0UOim%2Bywez96fIQkC&amp;b=5"
+            href="http://www-142.ibm.com/software/products/us/en/category/SWI00"
             >IBM Security</a
           >
         </li>
         <li>
-          <a href="/go.php?u=Y1MQCNSn6tEiD8ywat5PfNo%3D&amp;b=5"
-            >Internet Storm Center | SANS ISC</a
-          >
+          <a href="https://isc.sans.edu/">Internet Storm Center | SANS ISC</a>
         </li>
         <li>
-          <a
-            href="/go.php?u=Y1MQCM6h%2BY8%2BHNbtKdJIe5rkunA2lQSOoqlcVbMx5Df2CyplAC8ugEquMy7mQe6e9m9X1w%3D%3D&amp;b=5"
+          <a href="https://support.microsoft.com/en-us/gp/cu_sc_virsec_b107"
             >Microsoft Virus Protection and Windows Security Support</a
           >
         </li>
         <li>
-          <a
-            href="/go.php?u=KkYQUMqjp5I4DdCsN9RNfdv0untt3gnMuvUWT%2BknuA%3D%3D&amp;b=5"
+          <a href="http://www.microsoft.com/en-us/twc/"
             >Microsoft Trustworthy Computing</a
           >
         </li>
-        <li>
-          <a href="/go.php?u=KkYQUMqjp4k0HMuwLdxFJ5b4uDk%3D&amp;b=5"
-            >VeriSign</a
-          >
-        </li>
+        <li><a href="http://www.verisign.com/">VeriSign</a></li>
       </ul>
     </section>
     <!-- Footer -->
@@ -443,7 +395,7 @@ section {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: color(pColor);
-    padding: 5% 0;
+    padding: 0 0 5% 0;
   }
 
   ul {

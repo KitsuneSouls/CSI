@@ -75,8 +75,7 @@
           Guan, J. and Levitan, A.S. 2012. "A Model for Investigating Internal
           Control Weaknesses," Communications of the Association for Information
           Systems: Vol. 31, Article 3.
-          <a
-            href="/go.php?u=ZxUFlJ%2FOr7gaDeAvgIkjn8FAenvaAOEE6GpIPtOHbpz2wXd7sg%3D%3D&amp;b=5"
+          <a href="http://aisel.aisnet.org/cais/vol31/iss1/3"
             >[Click here for the link]</a
           >.
         </li>
@@ -85,7 +84,7 @@
           to Ensure Access Control and Authentication Requirements for SCADA
           Field Devices," Critical Infrastructure Protection. pp. 85-97.
           <a
-            href="/go.php?u=ZxUFmZ%2FTofpHHPs1gIsyw4BRcjmWAuAWt2hCIM%2BHcdu0gnZjpN%2B6hMPqcapPdJANoM0r43iH4RIxfw%3D%3D&amp;b=5"
+            href="http://link.springer.com/chapter/10.1007%2F978-3-642-35764-0_7"
             >[Click here for the link]</a
           >
         </li>
@@ -95,7 +94,7 @@
           Statistical Features," Cyberworlds (CW), 2012 International Conference
           on: IEEE, pp. 23-28.
           <a
-            href="/go.php?u=ZxUFnJPYr6xEAOYui8I%2B1MtXMzvLBqcPt3AIM5LCKJbp1wIx9YyV0Yf8NuoSfcVN44tztivB8RRde5dcYmI%3D&amp;b=5"
+            href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6337457"
             >[Click here for the link]</a
           >
         </li>
@@ -104,7 +103,7 @@
           "Experiments in Artimetrics: Avatar Face Recognition," Transactions on
           Computational Science XVI, pp. 77-94.
           <a
-            href="/go.php?u=ZxUFmZ%2FTofpHHPs1gIsyw4BRcjmWAuAWt2hCIM%2BHcdu0gnZjpN%2B6hMPqcapPdJANoM0s4niA4RsxfQ%3D%3D&amp;b=5"
+            href="http://link.springer.com/chapter/10.1007%2F978-3-642-32663-9_5"
             >[Click here for the link]</a
           >
         </li>
@@ -132,7 +131,7 @@
           Advances in Information and Communication Technology (311), pp.
           125-138.
           <a
-            href="/go.php?u=ZxUFmZ%2FTofpHHPs1gIsyw4BRcjmWAuAWt2hCIM%2BHcdu0gnZjpN%2B6hMPqcapPdJANoM4q43eL4RcxcQ%3D%3D&amp;b=5"
+            href="http://link.springer.com/chapter/10.1007%2F978-3-642-04798-5_9"
             >[Click here for the link]</a
           >
         </li>
@@ -142,7 +141,7 @@
           International Conference on Intelligence and Security Informatics. pp.
           150-155.
           <a
-            href="/go.php?u=ZxUFnJPYr6xEAOYui8I%2B1MtXMzvLBqcPt3AIM5LCKJbp1wIx9YyV0Yf8NuoSec5M6I1tvSHdpUZTBcoDFQV%2BWUTQ7GXtGD%2B%2FMwjODXGYYvx4Iwh9K9k%2F2ytbNcV0J3TnRlmj9zE9J0nl5FKgPWFNul%2FA7GO4lBWt9u9BnKxE1ctVSUJthPZVzmpouWBultbjE85RsZkurpxvTD0qQiP21XFo4bi%2FMFzJPC2cZB4%3D&amp;b=5"
+            href="BLnsyCtChGNdV10nFZKX0vGJGfBT89mJZ1dXhcC0TL2!-890701008?arnumber=5983990&contentType=Conference+Publicationhttp://ieeexplore.ieee.org/xpl/articleDetails.jsp;jsessionid=MjkBPLFf8s"
             >[Click here for the link]</a
           >
         </li>
@@ -151,15 +150,14 @@
           Intrusion Detection System for Resource-Constrained Devices in Ad-Hoc
           Networks," Ad Hoc Networks (8:3), pp. 253-266.
           <a
-            href="/go.php?u=ZxUFgoHK5KdXBewyjYkz2NxXfiCXAuca6G9EO4XYIpCq0zQg6I6Q2NuiNfBNEZUKus4m436G%2FBteeJBQZ20%3D&amp;b=5"
+            href="http://www.sciencedirect.com/science/article/pii/S1570870509000808"
             >[Click here for the link]</a
           >
         </li>
         <li>
           Lauf, A.P., and Robinson, W.H. 2009. "Fault Tolerance in Manets Using
           a Task-to-Resource Reallocation Framework," CSE (2), pp. 753-758.
-          <a
-            href="/go.php?u=ZxUFkZqTq7dZQuYuicM02NpTaT3WD6YUoXEYO4SLcMO2gXVjsw%3D%3D&amp;b=5"
+          <a href="http://dl.acm.org/citation.cfm?id=1633372"
             >[Click here for the link]</a
           >
         </li>
@@ -168,7 +166,7 @@
           SCADA for Monitoring and Control of Industrial Processes," I. J.
           Comput. Appl (17:1), pp. 41-51.
           <a
-            href="/go.php?u=ZxUFgoHK5L1aCuYug40j2MUcaDrQTPwFrnlVfITTbovp1z975Y%2FT15unLvcDLtcQ5I19tWHav0EPeZdGPyFfcw%3D%3D&amp;b=5"
+            href="http://www.informatik.uni-trier.de/~ley/db/journals/isca/isca17.html"
             >[Click here for the link]</a
           >
         </li>
@@ -178,7 +176,7 @@
           Statistical Features," 2012 International Conference on Cyberworlds
           (CW): IEEE, pp. 23-28.
           <a
-            href="/go.php?u=ZxUFnJPYr6xEAOYui8I%2B1MtXMzvLBqcPt3AIM5LCKJbp1wIx9YyV0Yf8NuoSfdBPsNh%2FpiDGoUALOp1eZGYFKxffiErsBTKZKT%2FyM0%2BZCY4nIyhCEuRhzgk6ItZUHyW9SmeQqTsWaVnJpnK4djAFp1W0uiDq%2B1XKmutCh7xH1MsCRkEy1akYkihr6UtBrPelF8VhkqNdmJ5jTyp9FAyjg2kPp%2BPkcA%3D%3D&amp;b=5"
+            href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6337457&contentType=Conference+Publications&sortType%3Dasc_p_Sequence%26filter%3DAND(p_IS_Number%3A6337397)"
             >[Click here for the link]</a
           >
         </li>
@@ -187,7 +185,7 @@
           "Experiments in Artimetrics: Avatar Face Recognition," Transactions on
           Computational Science XVI, pp. 77-94.
           <a
-            href="/go.php?u=ZxUFmZ%2FTofpHHPs1gIsyw4BRcjmWAuAWt2hCIM%2BHcdu0gnZjpN%2B6hMPqcapPdJANoM0s4niA4RsxfQ%3D%3D&amp;b=5"
+            href="http://link.springer.com/chapter/10.1007%2F978-3-642-32663-9_5"
             >[Click here for the link]</a
           >
         </li>
@@ -197,7 +195,7 @@
           Security Symposium on Biometric Technology for Human Identification
           IX, Baltimore, Maryland, USA.
           <a
-            href="/go.php?u=ZxUFl5%2FSp7FAHuA%2FncI0wssccCfMT%2B0TsjN3J4LaKJbkxi87757T%2B5WxObYpLsVN6Kd%2FuT7coFEFIdkiNjxcQGS6%2BEDxHzOdKxzJOFOYa58tLiFADuh1xAJ2M9VXBy2sbXKaoyY6G0%2FFvFSJf3JQs1feqzfv&amp;b=5"
+            href="http://biometrics.cse.msu.edu/Publications/Face/KlareYampolskiyJain_FRVirtualWorld_RecognizingAvatarFaces_TechRep2011.pdf"
             >[Click here for the link]</a
           >
         </li>
@@ -300,7 +298,7 @@
           Data Centers," in Cyber Infrastructure Protection, T.N. Saadawi and L.
           Jordan (eds.). Carlisle, PA: Strategic Studies Institute, pp. 183-206.
           <a
-            href="/go.php?u=ZxUFgoHK5KdAHugoi4s%2B0t1GaDDQBPseqW9TO5TDNZCr0zQ5%2BMOR1Jj9LP0EJM1T6I0xhBvx%2FRJYf44YMzM%3D&amp;b=5"
+            href="http://www.strategicstudiesinstitute.army.mil/pdffiles/PUB1067.pdf"
             >[Click here for the link]</a
           ><br />
         </li>
