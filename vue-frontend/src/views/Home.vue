@@ -56,6 +56,10 @@
           National Centers of Academic Excellence in IA/CD programs.
         </li>
       </ul>
+      <div class="logos">
+        <div id="nsa"><img src="@/assets/NSA-logo.svg" alt="NSA logo" /></div>
+        <div id="nsa"><img src="@/assets/DHS-logo.svg" alt="DHS logo" /></div>
+      </div>
     </section>
     <!-- Mision -->
     <section id="mission">
@@ -107,7 +111,10 @@ export default {
 #header {
   height: 80vh;
   background-image: url(../assets/bg.png);
+  filter: grayscale(1);
   background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   clip-path: polygon(50% 0%, 100% 0, 100% 75%, 50% 100%, 0% 75%, 0 0);
   display: flex;
   flex-flow: column;
@@ -218,6 +225,7 @@ section {
   a {
     letter-spacing: 1px;
     text-transform: uppercase;
+    color: color(sColor);
   }
 }
 
@@ -232,13 +240,27 @@ section {
     text-align: center;
     letter-spacing: 2px;
     color: color(pColor);
-    padding-bottom: 5%;
+    padding-bottom: 2%;
   }
 
   li {
     line-height: 150%;
     letter-spacing: 0.5px;
     margin: 5%;
+  }
+
+  .logos {
+    display: flex;
+    justify-content: center;
+
+    div {
+      padding: 0 5%;
+
+      img {
+        align-self: center;
+        height: 15vh;
+      }
+    }
   }
 }
 
